@@ -25,5 +25,5 @@ Contributions are always welcome! Please read the [contribution guidelines](http
 To the extent possible under law, [Ravindra Purohit](https://github.com/rvutd) has waived all copyright and related or neighboring rights to this work.<br>
 
 ## Link of this site
-<https://mit-canteen.netlify.app/index.html>
+<https://cool-croissant-7192b2.netlify.app>
 
