@@ -279,7 +279,7 @@ function customerFooterUI() {
                 </main>
                 <!-- Deep Devs Info -->
                 <main class="deep-devs flex">
-                    <div>© Copyright 2020 - 2021. All Rights Reserved</div>
+                    <div>© Copyright 2022. All Rights Reserved</div>
                     <div class="">Designed & Developed by Parth</div>
                 </main>
             </section>
@@ -323,7 +323,7 @@ function userFooterUI() {
                 </main>
                 <!-- Deep Devs Info -->
                 <main class="deep-devs flex">
-                    <div>© Copyright 2020 - 2021. All Rights Reserved</div>
+                    <div>© Copyright 2022. All Rights Reserved</div>
                     <div class="">Designed & Developed by Parth</div>
                 </main>
             </section>
