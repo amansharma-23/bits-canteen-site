@@ -280,7 +280,7 @@ function customerFooterUI() {
                 <!-- Deep Devs Info -->
                 <main class="deep-devs flex">
                     <div>© Copyright 2022. All Rights Reserved</div>
-                    <div class="">Designed & Developed by Parth</div>
+                    <div class="">Designed & Developed by Parth and Saransh</div>
                 </main>
             </section>
         `;
@@ -324,7 +324,7 @@ function userFooterUI() {
                 <!-- Deep Devs Info -->
                 <main class="deep-devs flex">
                     <div>© Copyright 2022. All Rights Reserved</div>
-                    <div class="">Designed & Developed by Parth</div>
+                    <div class="">Designed & Developed by Parth and Saransh</div>
                 </main>
             </section>
         `;
